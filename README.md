@@ -1,6 +1,6 @@
-#AWS Lambda Golang Telegram Bot
+# AWS Lambda Golang Telegram Bot
 
-##This bot will reply you with your message
+## This bot will reply you with your message
 
 Eviroment variables required:
 
